@@ -44,6 +44,7 @@ public abstract class LearningAutonomous extends LinearOpMode{
         Thread.sleep(4000);
 
 
+        telemetry.addData("oH mY GoD iTS WOrKInG!!!!!!!!")
         telemetry.update();
     }
 
